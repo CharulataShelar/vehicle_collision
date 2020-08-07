@@ -87,4 +87,3 @@ scipy>=0.15.1
 scikit-learn==0.22.1
 matplotlib>=1.4.3
 flasgger==0.9.4
-streamlit
